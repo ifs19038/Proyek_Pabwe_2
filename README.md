@@ -2,7 +2,7 @@ Kelompok 11
 
 Nama Anggota:
 
--11S19028	Deiva Pasaribu
+-11S19028	Deiva Pasaribu 
 <br>
 -11S19033	Bintang Lumbanraja
 <br>
@@ -10,7 +10,7 @@ Nama Anggota:
 <br>
 -11S19052	Rens Sibarani
 <br>
--11S19027	Darel Pinem
+-11S19027	Darel Pinem - Developer
 <br>
 -11S19004	Sophian Nainggolan
 <br>
